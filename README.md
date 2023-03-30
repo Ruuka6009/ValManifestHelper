@@ -1,4 +1,5 @@
 # ValManifestHelper
+### ⚠️ DOWNLOAD MANIFESTDOWNLOADER FROM Morilli's REPO AND PUT IT IN THE SAME FOLDER ! ⚠️
 Just a batch script to help download the game using the manifest file of Valorant
 
 ## Big big thanks to Morilli for the ManifestDownloader executable!
